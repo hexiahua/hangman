@@ -26,7 +26,7 @@ My_quality["height"]=h
 My_quality["lovecolor"]=c
 My_quality["loveauthor"]=a
 print(My_quality)
-
+#何夏华最强。
 #5、创建一个字典，将最喜欢的歌手映射至最喜欢的歌曲。
 siger_song={"zjl":"gbqq","wlh":"wmdg"}
 print(siger_song)
